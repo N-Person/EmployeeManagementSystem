@@ -7,12 +7,13 @@ AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
 SO THAT I can organize and plan my business
 
-[GitHub](https://github.com/N-Person/EmployeeManagementSystem)
-[GitHubIO](https://www.example.com)
+
 ![alt text](EMSSS.png)
 
 
 You can find the Video link of the functionality [Here](https://www.youtube.com/watch?v=ADFyNJhvX34)
+[GitHub](https://github.com/N-Person/EmployeeManagementSystem)
+[GitHubIO](https://n-person.github.io/EmployeeManagementSystem/)
 
   MIT License
 
